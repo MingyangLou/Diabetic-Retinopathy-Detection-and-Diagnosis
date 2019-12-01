@@ -1,5 +1,5 @@
 # Diabetic Retinopathy Diagnosis and Detection
-This project utilizes varaious Machine Learning models for Diabetic Retinopathy diagnosis and detection.
+This project utilizes varaious machine learning models for Diabetic Retinopathy diagnosis and detection.
 
 # Content
 1. Introduction
