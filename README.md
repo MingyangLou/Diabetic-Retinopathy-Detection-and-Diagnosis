@@ -3,17 +3,10 @@ This project utilizes varaious machine learning models for Diabetic Retinopathy 
 
 # Content
 1. [Introduction](#introduction)
-2. Data Processing
-3. Model Fitting
-    1. SVM (Support Vector Machine)
-    2. LASSO
-    3. FFN
-	      - RBM (restricted Boltzmann machine)
-        - MMF 
-        - NNMF(Non-negative matrix factorization)
-    4. CNN (Hyperparameter tuning)
-4. Model Evaluation
-5. Conclusion
+2. [Data Processing](#data-processing)
+3. [Model Fitting](#model-fitting)
+4. [Model Evaluation](#model-evaluation)
+5. [Conclusion](#conclusion)
 
 # Introduction
 ## What is Diabetic Retinopathy?
@@ -35,3 +28,8 @@ Diabetic retinopathy is a diabetes complication that affects eyes. It's caused b
     Only about 60%, according to a research performed by Google
     
     Eye doctors are good at detecting very healthy, and very unhealthy tissue, but have difficulty consistently diagnosing tissue that is in-between.
+# Data Processing
+
+# Model Fitting
+# Model Evaluation
+# Conclusion
