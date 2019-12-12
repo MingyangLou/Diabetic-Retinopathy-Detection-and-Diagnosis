@@ -2,7 +2,7 @@
 This project utilizes varaious machine learning models for Diabetic Retinopathy diagnosis and detection.
 
 # Content
-1. Introduction
+1. [Introduction](#introduction)
 2. Data Processing
 3. Model Fitting
     1. SVM (Support Vector Machine)
