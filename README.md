@@ -24,8 +24,23 @@ Diabetic retinopathy is a diabetes complication that affects eyes. It's caused b
 - Data visualization 
 - Image preprocessing
 # Model Fitting
-- Classification models such as SVM, Logistic Regression, and LDA
-- CNN
+## Image Preprocessing
+`Image_Preprocess.py`
+
+We follow standard image processing procedures:
+1. Rescale, Resize and RGB to grey
+2. Data Augmentaion
+3. Enhancement
+## Modeling Fitting
+`svm_lasso_lda.py`
+- Use PCA/K means to extract image features
+- Train machine learning models
+  - SVM
+  - Logistic Regression
+  - LDA
+
+`CNN.ipynb`
+- CNN model (Use Google Colab)
 # Model Evaluation
 - 95% specificity
 - 73% accuracy
