@@ -1,4 +1,4 @@
-# Diabetic Retinopathy Diagnosis and Detection
+# Diabetic Retinopathy Detection and Diagnosis
 This project utilizes varaious machine learning models for Diabetic Retinopathy diagnosis and detection.
 
 # Introduction
