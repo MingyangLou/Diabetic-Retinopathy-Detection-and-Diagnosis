@@ -1,4 +1,3 @@
-Read me and you will know nothing
 # Image Preprocessing
 `Image_Preprocess.py`
 
